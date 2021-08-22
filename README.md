@@ -1,5 +1,6 @@
-# automatics_emails
+# Emails automáticos
 Automação desenvolvida em Python para enviar emails para uma lista de remetentes.
+
 ### Status do Projeto :white_check_mark:
 O projeto foi concluido com sucesso 
 
